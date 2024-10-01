@@ -1,3 +1,7 @@
+<h1 align="center">THIS APP IS HACKED BY HAXXOR</h1>
+<br />
+<h1 align="center">CLICK MY PHISHING LINK</h1>
+<br />
 <h1 align="center">SwissCovid Android App</h1>
 <br />
 <div align="center">
